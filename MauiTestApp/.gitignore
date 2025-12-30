@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# Build outputs
+bin/
+obj/
+
+# Mac
+.DS_Store
+
+# Rider
+.idea/
+
+# NuGet
+packages/
+
+# Logs
+*.log
